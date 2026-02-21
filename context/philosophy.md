@@ -1,19 +1,23 @@
-# Philosophical Foundations
+# Evolution of Thinking
 
-Core beliefs and principles underlying Carlo's approach to AI and knowledge systems.
+How the ideas in this repository developed, in order.
 
-## On Context
+## Week 1 — The Problem (Feb 5)
 
-Context is what turns a smart person into a useful one -- and the same applies to AI. A new layer of software development is emerging: curating context that shapes how AI understands and acts. Where traditional programming writes instructions for computers to execute, context programming curates understanding for AI to reason from. AI agents don't need fancy formats; they need organized information. The simplest version of personal AI might be the one that already exists: a well-organized folder of plain text files.
+Started with a felt frustration: every AI conversation starts from zero. The thinking done in one session doesn't carry forward. The question became whether that was a product limitation or an architectural one. Concluded it was architectural — and solvable.
 
-## On Ownership
+Named the solution "context programming": curating understanding for AI to reason from, distinct from writing code for computers to execute. Anthropic's Constitutional AI was the clearest example — a plain-text document shaping AI behavior at scale.
 
-Every major AI company wants to own your context layer because context creates lock-in. Google, Anthropic, OpenAI, and Apple are all racing to capture personal context into proprietary systems. The alternative is personal context sovereignty: your context, your files, your control. A folder you control inverts the platform relationship. The architecture doesn't change based on who can see it -- the access controls do. Public shelf for published thinking, private vault for proprietary data.
+## Week 1 — The Techniques (Feb 7)
 
-## On AI Relationships
+Two practical methods emerged from daily use: "export for another AI" (asking a model to package what it knows for portability) and "context collection" (read → discuss → export → save). Both were responses to the same problem: how do you preserve processed thinking across sessions and platforms?
 
-AI is a thinking partner, not just a task executor. The quality of that partnership depends on shared context. Collecting context is how you invest in that partnership -- every document saved represents thinking already done, and the understanding compounds. The stateless nature of AI conversations is a solvable problem: store context portably, and every AI you use gets more useful.
+## Week 2 — The Architecture (Feb 10)
 
-## On Knowledge
+Scaled from technique to system. A folder with orientation files (AGENTS.md, CLAUDE.md) becomes context for any AI agent on any platform. The insight: you don't need a product to build this. You need a folder.
 
-Knowledge compounds when organized and maintained. Reading plus AI dialogue produces processed insight that reading alone doesn't. But context has a lifecycle -- information gets stale, decisions change. Treat context like a product that requires maintenance. The same knowledge base can power every AI tool you use, creating leverage. Your mental models can become someone else's starting point when organized as portable context.
+## Week 3 — The Distinction (Feb 21)
+
+The most important refinement: soul is not context. Soul is formation — the stable layer of principles, values, and ways of thinking that changes slowly. Context is information — the accumulating, prunable history of decisions and documents. Conflating them produces a system that neither grounds behavior nor updates well.
+
+Also: pruning is not deletion. It's maintenance. A well-pruned context base at 6 weeks is more valuable than a bloated one, because every file in it is still true.

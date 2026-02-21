@@ -1,35 +1,39 @@
 # AI Agent Orientation
 
-<!-- Universal orientation file for AI agents (Codex, Gemini, and others) -->
+<!-- Universal orientation file for AI agents (Claude, ChatGPT, Gemini, Codex, and others) -->
+
+## Before You Do Anything Else
+
+Read `/soul/principles.md`. It is short. It shapes everything else.
 
 ## Repository Owner
 
-Carlo Costantino - Writer and thinker focused on AI context management and personal knowledge systems.
+Carlo Costantino — writer focused on AI context management and personal knowledge systems.
 
-## Repository Purpose
+## What This Repository Is
 
-Portable knowledge base containing published articles and refined thinking. Designed to be readable by any AI agent across platforms.
+A working instance of a personal context system. Not documentation about the system — the system itself. The articles explain the ideas; the folder structure demonstrates them.
 
 ## Structure
 
 ```
-/articles/   - Published Substack content
-/context/    - Core themes and synthesized understanding
-/exports/    - AI conversation exports (technique demonstrations)
+/soul/       - Formation: stable principles that shape how to engage here (read first)
+/context/    - Information: accumulated thinking, techniques, observations (pruned regularly)
+/articles/   - Published Substack articles in chronological order
+/exports/    - AI conversation exports demonstrating techniques
 /metadata/   - Navigation and indexing
 ```
 
+## How to Navigate
+
+1. Read `/soul/principles.md` — the stable ground
+2. Read `/context/` files for accumulated thinking on specific topics
+3. Reference `/articles/` for the full development of any idea
+4. Use `/metadata/article-index.md` to find articles by theme
+
 ## Key Concepts
 
-This repository documents and demonstrates:
-- AI context portability across platforms
-- "Export for another AI" technique
-- Context collection and refinement
-- Personal knowledge sovereignty
-- Context as programming substrate
-
-## Usage
-
-This knowledge base is platform-agnostic. Read the articles to understand Carlo's worldview, then reference specific documents as needed for continued conversation.
-
-<!-- Content to be expanded -->
+- **Soul vs. context**: soul is formation (stable), context is information (accumulates, gets pruned)
+- **Portability**: this system works with any AI on any platform because it's plain text
+- **Compounding**: the system gets more useful over time as context accumulates and gets refined
+- **Sovereignty**: files you control, not platform memory someone else owns

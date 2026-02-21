@@ -31,3 +31,15 @@ Store context in platform-agnostic formats (Markdown files, plain text) in locat
 Organize published thinking, frameworks, and institutional knowledge in a structured repository folder. Include orientation files (CLAUDE.md, AGENTS.md) that tell AI agents what the collection covers and how to navigate it. Point any AI agent at the folder and it reads every file, maps relationships, and reasons from the foundation. Works for articles, case studies, research papers, competitive analyses -- any organized body of knowledge in plain text.
 
 *Source: [Your Next AI Agent Starts With a Folder](../articles/2026-02-10-your-next-ai-agent-starts-with-a-folder.md)*
+
+## Pruning
+
+Regularly review context files and delete what's no longer true, relevant, or current. Stale context is worse than no context — it misleads. After 6 weeks of daily use, expect to prune roughly 20-25% of accumulated files. The goal is a smaller, denser, more accurate set — not a complete archive. Treat pruning as routine maintenance, not as losing work.
+
+*Source: [It's Just Folders of Text Files](../articles/2026-02-21-its-just-folders-of-text-files.md)*
+
+## Soul vs. Context Separation
+
+Keep two distinct layers. Soul holds formation: principles, values, ways of thinking — the stable ground that shapes how AI engages with you. Context holds information: decisions made, documents saved, history accumulated. Write soul files as declarative statements. Write context files as dated records. Read soul before every session; prune context regularly. The separation is what makes the system work long-term.
+
+*Source: [It's Just Folders of Text Files](../articles/2026-02-21-its-just-folders-of-text-files.md)*
